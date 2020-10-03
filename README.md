@@ -9,10 +9,5 @@ pip.main(['list'])
 pip.main(['install', '<bib name>'])
 pip.main(['install', 'jupyter'])
 ```
-
-RSA cryptography  
-Email adress verification  
-Morse avec affichage
-
-castello di pavone cavanese
-
+Il faudra ajouter les instructions pour aider à faire tourner
+les notebooks ... C'est un format de base important.
