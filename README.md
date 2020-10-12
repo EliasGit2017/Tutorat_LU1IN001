@@ -12,8 +12,6 @@ Les Notebooks étudiants sont uploadés peu avant la séance et sont consultable
 ```python
 import pip
 pip.main(['list'])
-pip.main(['install', '<bib name>'])
 pip.main(['install', 'jupyter'])
 ```
-Il faudra ajouter les instructions pour aider à faire tourner
-les notebooks ... C'est un format de base important.
+
